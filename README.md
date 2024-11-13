@@ -1,6 +1,6 @@
 # Modelos de Sistemas para Mecatrónica - Recursos Didácticos Avanzados
 
-<img src="msm.png" alt="Modelos de Sistemas para Mecatrónica" width="463" height="465"/>
+<img src="mt5002.png" alt="Modelos de Sistemas para Mecatrónica" width="463" height="465"/>
 
 Este repositorio contiene ejemplos prácticos de conceptos fundamentales del curso de "Modelos de Sistemas para Mecatrónica" del Tecnológico de Costa Rica. Está diseñado para estudiantes interesados en profundizar en la modelación de sistemas dinámicos en el ámbito de la mecatrónica, comprendiendo su comportamiento y respuesta bajo diferentes condiciones.
 
