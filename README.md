@@ -35,7 +35,7 @@ Este repositorio contiene ejemplos prácticos de conceptos fundamentales del cur
 
 ## Contenidos
 
-- [¿Cómo se utilizan los números complejos y el cálculo en variable compleja en la modelación de sistemas?](./Variable_Compleja.ipynb)
+- [¿Qué es la función escalón unitario?](./Funcion_Escalon.ipynb)
 - [¿Cómo se aplican las series y la transformada de Fourier en el análisis de sistemas periódicos?](./Analisis_de_Fourier.ipynb)
 - [¿Qué aplicaciones tiene la transformada de Laplace en la resolución de ecuaciones diferenciales y análisis de sistemas?](./Transformada_de_Laplace.ipynb)
 - [¿Cómo se aplica la transformada Z en el análisis de sistemas discretos?](./Transformada_Z.ipynb)
